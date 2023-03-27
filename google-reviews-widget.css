@@ -1,0 +1,21 @@
+#google-reviews-widget {
+    font-family: Arial, sans-serif;
+}
+
+.review {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.review-author {
+    font-weight: bold;
+}
+
+.review-rating {
+    color: #f39c12;
+}
+
+.review-text {
+    margin-top: 10px;
+}
